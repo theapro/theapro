@@ -51,7 +51,7 @@
       <td>🚧 In Progress</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/theapro/apro-portfolio">📊 Edu Dashboard</a></td>
+      <td><a href="https://github.com/theapro/apro-portfolio">📊 Portfolio</a></td>
       <td>Portfolio</td>
       <td>🚧 In Progress</td>
     </tr>
