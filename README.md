@@ -1,9 +1,6 @@
-<h2 align="center">
-  Hey there! I'm apro 👋  
-  Creative Web Developer & 3D Experience Builder
-</h2>
+# Hello 👋
 
-<div align="center">
-  🚀 Passionate about building interactive web experiences  
-  🧠 Specialized in React, Node.js, Three.js  
-</div>
+- 🚀 I'm a Creative Web Developer & 3D Experience Builder
+- 🧠 Specialized in React, Node.js, Three.js
+- 🌐 Portfolio: [theapro.uz](https://theapro.uz)
+- 📫 Contact: [Email me](mailto:theaynpro@gmail.com) | [LinkedIn](https://linkedin.com/in/theaynpro)
