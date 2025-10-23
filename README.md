@@ -1,4 +1,4 @@
-# Hello 👋
+# Yo
 
 - 🚀 I'm a Creative Web Developer & 3D Experience Builder
 - 🧠 Specialized in React, Node.js, Three.js
