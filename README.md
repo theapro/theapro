@@ -5,4 +5,4 @@
 -  Portfolio: [www.theapro.me](https://www.theapro.me)
 -  Contact: [Email me](mailto:theaynpro@gmail.com) | [LinkedIn](https://linkedin.com/in/theaynpro)
 
-- i am now working on andisha.uz the forum project.
+- I am now working on andisha.uz the forum project.
