@@ -28,11 +28,16 @@
     <img src="https://img.shields.io/badge/links-000000?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNiAxNiIgd2lkdGg9IjE2IiBoZWlnaHQ9IjE2IiBmaWxsPSJ3aGl0ZSI+PHBhdGggZD0iTTcuNzc1IDMuMjc1YTEuNzUgMS43NSAwIDAgMSAyLjQ1IDBsMS4yNSAxLjI1YTEuNzUgMS43NSAwIDAgMSAwIDIuNDVsLTEuNSAxLjVhLjc1Ljc1IDAgMCAxLTEuMDYtMS4wNmwxLjUtMS41YS4yNS4yNSAwIDAgMCAwLS4zNWwtMS4yNS0xLjI1YS4yNS4yNSAwIDAgMC0uMzUgMGwtMS41IDEuNWEuNzUuNzUgMCAwIDEtMS4wNi0xLjA2bDEuNS0xLjVaTTYgNy4zYS43NS43NSAwIDAgMSAwIDEuMDZsLTEuNSAxLjVhLjI1LjI1IDAgMCAwIDAgLjM1bDEuMjUgMS4yNWMuMDk2LjA5Ny4yNTQuMDk3LjM1IDBsMS41LTEuNWEuNzUuNzUgMCAxIDEgMS4wNiAxLjA2bC0xLjUgMS41YTEuNzUgMS43NSAwIDAgMS0yLjQ1IDBMNy40IDEwLjMzYTEuNzUgMS43NSAwIDAgMSAwLTIuNDVsMS41LTEuNUEuNzUuNzUgMCAwIDEgNiA3LjNaIi8+PC9zdmc+&logoColor=white" />
   </a>
 </div>
+<br><br>
 
-   # #Yo
--  I'm a Creative Web Developer & Designer
--  Specialized in React TS, Node.js, Express JS
--  Portfolios: [www.theapro.me](https://www.theapro.me), [mpa.theapro.me](https://mpa.theapro.me), [secondfolio.theapro.me](https://secondfolio.theapro.me)
--  Contact: theaynpro@gmail.com | [more links](https://www.theapro.me/links)
+Software engineer with 5+ years of experience, currently pursuing my degree.
+i build web applications with a focus on clean code and thoughtful design.
+i enjoy the process — from writing components to getting the details right visually.
+outside of work, you'll likely find me with a coffee, exploring art, or deep in a side project.
+currently building [andisha](https://andisha.network), a community forum platform,
+while taking on freelance projects and collaborating through cowork.
+<br><br>
 
-- I am now working on Andisha the forum project.
+
+Specialized in `React TS` `Node JS` `Express JS` — and a bit of graphic & web design
+
